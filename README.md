@@ -1,7 +1,4 @@
-
-## 🚀 About Me
-I'm a full stack laravel & livewire developer
+[![Fahri's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinderjk)](#)
 
 
-## 🛠 Skills
-Laravel, Livewire, Javascript
+[![Fahri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cinderjk&layout=compact&langs_count=8&card_width=320)](#)
